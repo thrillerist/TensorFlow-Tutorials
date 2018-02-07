@@ -18,6 +18,12 @@
 14. [DeepDream](https://zhuanlan.zhihu.com/p/27546601) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/14_DeepDream_zh_CN.ipynb))
 15. [风格迁移](https://zhuanlan.zhihu.com/p/27697553) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/15_Style_Transfer_zh_CN.ipynb))
 
+## 使用
+1. 在安装了docker-compose的终端执行：`docker-compose up`
+2. 在浏览器中打开日志中最后打印出的网址，如`http://localhost:8888/?token=1c267204f7e6e244f39ab866d7c25ac4ef3e7aecc1bc7ddc`
+3. 按`CTRL + C`停止运行
+
+
 ***
 
 [Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
