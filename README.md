@@ -1,34 +1,65 @@
 # TensorFlow Tutorials
 
-中文翻译文件名以zh_CN结尾。
+中文翻译文件名以zh_CN或_CN结尾。
 
-1. [简单线性模型](https://zhuanlan.zhihu.com/p/26660699) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model_zh_CN.ipynb))
-2. [卷积神经网络](https://zhuanlan.zhihu.com/p/26719471) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network_zh_CN.ipynb))
-3. [PrettyTensor](https://zhuanlan.zhihu.com/p/26808093) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/03_PrettyTensor_zh_CN.ipynb))
-4. [保存 & 恢复](https://zhuanlan.zhihu.com/p/26890361) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/04_Save_Restore_zh_CN.ipynb))
-5. [集成学习](https://zhuanlan.zhihu.com/p/26943434) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/05_Ensemble_Learning_zh_CN.ipynb))
-6. [CIFAR-10](https://zhuanlan.zhihu.com/p/27017189) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/06_CIFAR-10_zh_CN.ipynb))
-7. [Inception 模型](https://zhuanlan.zhihu.com/p/27017772) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/07_Inception_Model_zh_CN.ipynb))
-8. [迁移学习](https://zhuanlan.zhihu.com/p/27093918) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/08_Transfer_Learning_zh_CN.ipynb))
-9. [视频数据](https://zhuanlan.zhihu.com/p/27160921) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/09_Video_Data_zh_CN.ipynb))
-10. 暂缺 ([support this issue](https://github.com/tensorflow/tensorflow/issues/5036))
-11. [对抗样本](https://zhuanlan.zhihu.com/p/27241550) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/11_Adversarial_Examples_zh_CN.ipynb))
-12. [MNIST的对抗噪声](https://zhuanlan.zhihu.com/p/27399023) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/12_Adversarial_Noise_MNIST_zh_CN.ipynb))
-13. [可视化分析](https://zhuanlan.zhihu.com/p/27441089) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/13_Visual_Analysis_zh_CN.ipynb))
-14. [DeepDream](https://zhuanlan.zhihu.com/p/27546601) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/14_DeepDream_zh_CN.ipynb))
-15. [风格迁移](https://zhuanlan.zhihu.com/p/27697553) ([Notebook](https://github.com/thrillerist/TensorFlow-Tutorials/blob/master/15_Style_Transfer_zh_CN.ipynb))
+1. 简单线性模型([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model_CN.ipynb))
+
+2. 卷积神经网络([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network_CN.ipynb))
+
+3. ~~Pretty Tensor~~ ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/03_PrettyTensor_zh_CN.ipynb))
+
+3-B. Layers API ([暂缺])
+
+3-C. Keras API ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/03C_Keras_API_CN.ipynb))
+
+4. 保存&回复 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/04_Save_Restore_zh_CN.ipynb))
+
+5. 集成学习 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/05_Ensemble_Learning_zh_CN.ipynb))
+
+6. CIFAR-10 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/06_CIFAR-10_zh_CN.ipynb))
+
+7. Inception模型 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/07_Inception_Model_zh_CN.ipynb))
+
+8. 迁移学习 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/08_Transfer_Learning_zh_CN.ipynb))
+
+9. 视频数据 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/09_Video_Data_zh_CN.ipynb))
+
+10. 微调 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/10_Fine-Tuning_CN.ipynb))
+
+11. 对抗样本 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/11_Adversarial_Examples_zh_CN.ipynb))
+
+12. MNIST的对抗样本 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/12_Adversarial_Noise_MNIST_zh_CN.ipynb))
+
+13. 可视化分析 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/13_Visual_Analysis_zh_CN.ipynb))
+
+13-B. MNIST的可视化分析 ([暂缺])
+
+14. DeepDream ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/14_DeepDream_zh_CN.ipynb))
+
+15. 风格迁移 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/15_Style_Transfer_zh_CN.ipynb))
+
+16. 强化学习 ([暂缺])
+
+17. Estimator API ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/17_Estimator_API_CN.ipynb))
+
+18. TFRecords & Dataset API ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/18_TFRecords_Dataset_API_CN.ipynb)) 
+
+19. 超参数优化 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/19_Hyper-Parameters_CN.ipynb)) 
+
+20. 自然语言处理 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/20_Natural_Language_Processing_CN.ipynb)) 
+
+21. 机器翻译 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/21_Machine_Translation_CN.ipynb))
+
+22. 图像描述 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/22_Image_Captioning_CN.ipynb))
+
+23. 时间序列预测 ([Notebook](https://github.com/ZhouGeorge/TensorFlow-Tutorials/blob/master/23_Time-Series-Prediction_CN.ipynb))
 
 ***
+
 
 [Original repository on GitHub](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 
 Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
-
-##  Donations
-
-All this was made by a single person who did not receive any money for doing the work.
-If you find it useful then [please donate securely using PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PY9EUURN7GRUW).
-Even a few dollars are appreciated. Thanks!
 
 ## Introduction
 
@@ -43,7 +74,11 @@ Even a few dollars are appreciated. Thanks!
 
 2. Convolutional Neural Network ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb))
 
-3. Pretty Tensor ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/03_PrettyTensor.ipynb))
+3. ~~Pretty Tensor~~ ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/03_PrettyTensor.ipynb))
+
+3-B. Layers API ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/03B_Layers_API.ipynb))
+
+3-C. Keras API ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/03C_Keras_API.ipynb))
 
 4. Save & Restore ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/04_Save_Restore.ipynb))
 
@@ -57,7 +92,7 @@ Even a few dollars are appreciated. Thanks!
 
 9. Video Data ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/09_Video_Data.ipynb))
 
-10. Not available yet. Please [support this issue](https://github.com/tensorflow/tensorflow/issues/5036) on GitHub so we can get it done!
+10. Fine-Tuning ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/10_Fine-Tuning.ipynb))
 
 11. Adversarial Examples ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/11_Adversarial_Examples.ipynb))
 
@@ -65,24 +100,43 @@ Even a few dollars are appreciated. Thanks!
 
 13. Visual Analysis ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/13_Visual_Analysis.ipynb))
 
+13-B. Visual Analysis for MNIST ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/13B_Visual_Analysis_MNIST.ipynb))
+
 14. DeepDream ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/14_DeepDream.ipynb))
 
 15. Style Transfer ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb))
 
 16. Reinforcement Learning ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb))
 
+17. Estimator API ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/17_Estimator_API.ipynb))
+
+18. TFRecords & Dataset API ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/18_TFRecords_Dataset_API.ipynb)) 
+
+19. Hyper-Parameter Optimization ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/19_Hyper-Parameters.ipynb)) 
+
+20. Natural Language Processing ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/20_Natural_Language_Processing.ipynb)) 
+
+21. Machine Translation ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/21_Machine_Translation.ipynb))
+
+22. Image Captioning ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/22_Image_Captioning.ipynb))
+
+23. Time-Series Prediction ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/23_Time-Series-Prediction.ipynb))
+
 ## Videos
 
 These tutorials are also available as [YouTube videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ).
 
-## Older Versions
+## Obsolete Tutorials
 
-Sometimes the source-code has changed from that shown in the YouTube videos. This may be due to
-bug-fixes, improvements, or because code-sections are moved to separate files for easy re-use.
+Some of these tutorials use an API called PrettyTensor for creating
+Neural Networks in TensorFlow, but the PrettyTensor API is now obsolete.
+Some of the Notebooks are therefore also obsolete and they are clearly
+marked at the top of each Notebook. It is recommended that you
+instead use the Keras API for creating Neural Networks in TensorFlow.
 
-If you want to see the exact versions of the source-code that were used in the YouTube videos,
-then you can [browse the history](https://github.com/Hvass-Labs/TensorFlow-Tutorials/commits/master)
-of commits to the GitHub repository.
+## Forks
+
+See the [selected list of forks](forks.md) for community modifications to these tutorials.
 
 ## Downloading
 
